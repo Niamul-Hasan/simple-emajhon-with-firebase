@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+### live Firebase deploy link
+<https://simple-emajhon-firebase-ceb06.web.app/>
+
+
+## Firebase Hosting steps
+ 1. npm install -g firebase-tools (one time for your computer)
+ 2. firebase login (one time for your computer)
+ 3. firebase init (one time for each project )
+ 4. npm run build (every time you want to deploy)
+ 5. firebase deploy (every time you want to deploy
+
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +80,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
